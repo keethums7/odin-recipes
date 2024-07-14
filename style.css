@@ -1,0 +1,8 @@
+.bg {
+    opacity: 0.1;
+    position: sticky;
+    top: 25%;
+    left: 25%;
+    width: 50%;
+    margin: 0px auto;
+}
